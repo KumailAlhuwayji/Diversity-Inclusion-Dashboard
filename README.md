@@ -1,17 +1,32 @@
 # Diversity & Inclusion Dashboard
 
-This project is part of **PwC’s Power BI Job Simulation** program. It features a Power BI dashboard that displays key performance indicators (KPIs) and metrics related to diversity and inclusion within an organization, along with key insights from the data.
-
 ## Overview
+This project was part of the **PwC Power BI Job Simulation** on Forage.  
+The goal was to analyze workforce diversity and inclusion data to uncover trends and provide data-driven insights for HR teams.
 
-The dashboard was designed to analyze workforce diversity, inclusion metrics, and promotion trends, providing insights that support a more inclusive and balanced workplace environment.
+## Objectives
+- Measure workforce diversity across different departments  
+- Identify gender and age representation gaps  
+- Build a dashboard to visualize inclusion metrics and trends
+
+## Steps Taken
+1. **Data Preparation**  
+   - Cleaned and standardized data using **Power Query**  
+   - Validated dataset to ensure reliability  
+
+2. **Data Modeling & Analysis**  
+   - Used **DAX** to calculate KPIs such as gender balance and age distribution  
+   - Created **calculated columns** for further segmentation  
+
+3. **Visualization**  
+   - Designed an interactive dashboard with visuals representing diversity indicators  
+   - Enabled filtering by department and demographic attributes  
+
+## Tools Used
+- Power BI  
+- Power Query  
+- DAX
 
 ## Key Insights
-
-- **Total employees**: 500 (295 males, 205 females)
-- **Employees hired in FY20**: 66
-- **Promotions**: 51
-- **Employees who left**: 47
-- **Gender distribution of hires**: Nearly equal (approximately 50% each)
-- **Average performance**: Similar across job levels for both males and females
-- **Promotion rate**: Males had a higher promotion rate than females in FY21 (approximately 65%)
+- Revealed underrepresented groups across certain departments  
+- Provided clear visuals to support HR diversity initiatives  
